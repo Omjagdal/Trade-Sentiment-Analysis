@@ -149,5 +149,4 @@ streamlit run dashboard.py
 ## 👤 Author
 
 Om Jagdale
-Aspiring Data Scientist
-Primetrade.ai Internship Applicant
+
