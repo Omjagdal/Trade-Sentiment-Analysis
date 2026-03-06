@@ -143,10 +143,3 @@ pip install -r requirements.txt
 ```bash
 streamlit run dashboard.py
 ```
-
----
-
-## 👤 Author
-
-Om Jagdale
-
